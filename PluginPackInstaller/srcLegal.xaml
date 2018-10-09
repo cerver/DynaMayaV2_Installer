@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="DynaMaya.scrLegal"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DynaMaya"
+             mc:Ignorable="d" 
+             d:DesignHeight="378" d:DesignWidth="700">
+    <Grid Margin="21,0,10,0">
+        <ScrollViewer x:Name="p1" Margin="154,60,0,71" ScrollViewer.VerticalScrollBarVisibility="Auto" d:IsHidden="False">
+            <TextBlock x:Name="pageLicense" Height="247" TextWrapping="Wrap" VerticalAlignment="Top" Width="486" LineHeight="10.667" Background="White" HorizontalAlignment="Left"><Run Text="Copyright (c) 2016 CERVER Design Studio and Robert Cervellione"/><LineBreak/><Run/><LineBreak/><Run Text="Permission to use this software for any purpose with or without fee is hereby granted, "/><LineBreak/><Run/><LineBreak/><Run Text="THE SOFTWARE IS PROVIDED &quot;AS IS&quot; AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE."/></TextBlock>
+        </ScrollViewer>
+        <CheckBox x:Name="checkBox" Content="I Agree" HorizontalAlignment="Left" Margin="415,320,0,0" VerticalAlignment="Top" Width="221" Click="cbTerms_Click" Foreground="Black"/>
+
+
+    </Grid>
+</UserControl>

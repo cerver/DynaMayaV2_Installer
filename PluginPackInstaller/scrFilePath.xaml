@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="DynaMaya.scrFilePath"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DynaMaya"
+             mc:Ignorable="d" 
+             d:DesignHeight="378" d:DesignWidth="700">
+    <Grid Margin="21,0,10,0">
+        <Grid x:Name="p2" Margin="117,60,8,23" d:IsHidden="False" >
+            <Label Content="Install Locations" HorizontalAlignment="Left" VerticalAlignment="Top" Width="292" FontFamily="Eras ITC" FontWeight="Bold" FontSize="16" Margin="0,-4,0,0"/>
+            <Label Content="Dynamo Install Directory" HorizontalAlignment="Left" Margin="8,120,0,0" VerticalAlignment="Top" Width="474" FontFamily="Eras ITC" FontSize="13.333"/>
+            <TextBox x:Name="tbDynLoc" Margin="13,145,75.333,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="29" IsReadOnlyCaretVisible="True" TextChanged="tbDynLoc_TextChanged"/>
+            <Button x:Name="btChFldrWorkspace" Content="..." HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="33" Background="{x:Null}" FontWeight="Bold" BorderBrush="{x:Null}" Height="41"  Margin="0,0,37.333,109" FontSize="16" RenderTransformOrigin="-0.558,6.652" Click="btChFldrDynDir_Click"/>
+            <TextBox x:Name="tbExampleLoc" Margin="13,246,75.333,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="32" IsReadOnlyCaretVisible="True" TextChanged="tbExampleLoc_TextChanged"/>
+            <Button x:Name="btChFldrExamples" Content="..." HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="33" Background="{x:Null}" FontWeight="Bold" BorderBrush="{x:Null}" Height="41"  Margin="0,0,37.333,5" FontSize="16" RenderTransformOrigin="-0.558,6.652" Click="btChFldrExamples_Click"/>
+            <Label Content="Example Files Location" HorizontalAlignment="Left" Margin="8,223,0,0" VerticalAlignment="Top" Width="292" FontFamily="Eras ITC" FontSize="13.333"/>
+            <TextBox x:Name="tbPackageMngrLoc" Margin="13,195,77.333,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="32" ToolTip="Please specify the location of the Dynamo package Core directory. this is usualy C:\Users\USER NAME\AppData\Roaming\Dynamo" IsReadOnlyCaretVisible="True" TextChanged="tbPackageMngrLoc_TextChanged"/>
+            <Button x:Name="btChFldrExamples_Copy" Content="..." HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="33" Background="{x:Null}" FontWeight="Bold" BorderBrush="{x:Null}" Height="41"  Margin="0,0,37.333,55" FontSize="16" RenderTransformOrigin="-0.558,6.652" Click="btChFldrPkgDir_Click"/>
+            <Label Content="Package Core Folder" HorizontalAlignment="Left" Margin="8,172,0,0" VerticalAlignment="Top" Width="292" FontFamily="Eras ITC" FontSize="13.333"/>
+            <TextBox x:Name="tbMaya19EnvLoc" Margin="13,42,77.333,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="27" ToolTip="Please specify the location of the Dynamo package manager directory. If you want to install for a different version of maya than shown please point it to the correct file." IsReadOnlyCaretVisible="True" TextChanged="tbMaya19EnvLoc_TextChanged"/>
+            <Button x:Name="btMaya16EnvLoc" Content="..." HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="33" Background="{x:Null}" FontWeight="Bold" BorderBrush="{x:Null}" Height="41"  Margin="0,0,37.333,212" FontSize="16" RenderTransformOrigin="-0.558,6.652" Click="btChFldrMaya19Env_Click"/>
+            <Label Content="Maya 2019 environment file location" HorizontalAlignment="Left" Margin="8,18,0,0" VerticalAlignment="Top" Width="292" FontFamily="Eras ITC" FontSize="13.333"/>
+            <TextBox x:Name="tbMaya18EnvLoc" Margin="13,95,77.333,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="27" ToolTip="Please specify the location of the Dynamo package manager directory. If you want to install for a different version of maya than shown please point it to the correct file." IsReadOnlyCaretVisible="True" TextChanged="tbMaya18EnvLoc_TextChanged"/>
+            <Button x:Name="btMaya18EnvLoc" Content="..." HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="33" Background="{x:Null}" FontWeight="Bold" BorderBrush="{x:Null}" Height="41"  Margin="0,0,38.333,159" FontSize="16" RenderTransformOrigin="-0.558,6.652" Click="btChFldrMaya18Env_Click"/>
+            <Label Content="Maya 2018 environment file location" HorizontalAlignment="Left" Margin="8,71,0,0" VerticalAlignment="Top" Width="292" FontFamily="Eras ITC" FontSize="13.333"/>
+
+        </Grid>
+    </Grid>
+</UserControl>

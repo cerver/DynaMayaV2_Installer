@@ -1,0 +1,43 @@
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\MainWindow.baml
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\MainWindow.g.cs
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\App.g.cs
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\DynaMaya Installer_MarkupCompile.cache
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\DynaMaya Installer.g.resources
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\bin\Release\DynaMaya Installer.exe.config
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\bin\Release\DynaMaya Installer.exe
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\bin\Release\DynaMaya Installer.pdb
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\DynaMaya Installer.exe
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\DynaMaya Installer.pdb
+C:\Users\cerve\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\bin\Release\DynaMaya Installer.exe.config
+C:\Users\cerve\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\bin\Release\DynaMaya Installer.exe
+C:\Users\cerve\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\bin\Release\DynaMaya Installer.pdb
+C:\Users\cerve\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\DynaMayaInstaller.csprojResolveAssemblyReference.cache
+C:\Users\cerve\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\MainWindow.baml
+C:\Users\cerve\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\MainWindow.g.cs
+C:\Users\cerve\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\App.g.cs
+C:\Users\cerve\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\DynaMaya Installer_MarkupCompile.cache
+C:\Users\cerve\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\DynaMaya Installer.g.resources
+C:\Users\cerve\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\DynaMaya Installer.exe
+C:\Users\cerve\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\DynaMaya Installer.pdb
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\bin\Release\DynaMaya Installer.exe.config
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\DynaMaya Installer.exe
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\DynaMaya Installer.pdb
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\bin\Release\DynaMaya Installer.exe
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\bin\Release\DynaMaya Installer.pdb
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\MainWindow.g.cs
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\scrFilePath.g.cs
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\srcLegal.g.cs
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\scrWelcome.g.cs
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\App.g.cs
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\DynaMaya Installer_MarkupCompile.cache
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\DynaMaya Installer_MarkupCompile.lref
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\MainWindow.baml
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\scrFilePath.baml
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\srcLegal.baml
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\scrWelcome.baml
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\DynaMaya Installer.g.resources
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\scrInstalled.g.cs
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\scrInstalled.baml
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\DynaMayaInstaller.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Release\DynaMayaInstaller.csproj.CoreCompileInputs.cache

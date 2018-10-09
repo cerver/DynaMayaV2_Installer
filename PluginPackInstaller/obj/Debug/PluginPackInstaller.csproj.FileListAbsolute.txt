@@ -1,0 +1,11 @@
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\bin\Debug\DynaMaya Installer.exe
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\bin\Debug\DynaMaya Installer.exe.config
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Debug\MainWindow.baml
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Debug\MainWindow.g.cs
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Debug\App.g.cs
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Debug\DynaMaya Installer_MarkupCompile.cache
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Debug\DynaMaya Installer.g.resources
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Debug\DynaMaya Installer.exe
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Debug\DynaMaya Installer.pdb
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\bin\Debug\DynaMaya Installer.pdb
+C:\Users\Robert\Google Drive\Code\DynamoMaya_v001\PluginPackInstaller\PluginPackInstaller\obj\Debug\PluginPackInstaller.csprojResolveAssemblyReference.cache

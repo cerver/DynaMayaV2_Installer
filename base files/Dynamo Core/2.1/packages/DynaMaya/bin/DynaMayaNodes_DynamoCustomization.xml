@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DynaMayaNodes</name>
+    </assembly>
+    <namespaces>
+        <namespace name="DynaMaya.Nodes.Meshes">
+            <category>DynaMaya.Geometry</category>
+        </namespace>
+		<namespace name="DynaMaya.Nodes.Surfaces">
+            <category>DynaMaya.Geometry</category>
+        </namespace>
+		<namespace name="DynaMaya.Nodes.Interop">
+            <category>DynaMaya.Interop</category>
+        </namespace>
+        <namespace name="DynaMaya.Nodes.Utility">
+            <category>DynaMaya.Geometry</category>
+        </namespace>
+		 <namespace name="DynaMaya.Geometry">
+            <category>DynaMaya</category>
+        </namespace>
+		 <namespace name="Autodesk.Maya.OpenMaya">
+            <category>DynaMaya.Settings</category>
+        </namespace>
+		<namespace name="System">
+            <category>System</category>
+        </namespace>
+    </namespaces>
+	
+       
+
+</doc>
